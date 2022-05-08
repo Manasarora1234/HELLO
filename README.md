@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Manasarora1234
-- 👀 I’m interested in python
+- 👋 Hi, I’m @Manasarora
+- 👀 I’m interested in python,HTML,JS,PHP
 - 🌱 I’m currently learning linux shell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
